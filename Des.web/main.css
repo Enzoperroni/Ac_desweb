@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/b3/cd/b1/b3cdb1fad76261f93ce5a521bcc64383.webp");
+    color: azure;   
+    padding: 200px 600px;
+    background-color: black;
+    background-size: cover;
+}
+
+.title{
+    font-size: 48px;
+    font-family: 'Playfair Display', serif;
+    color: coral;
+    border-width: 15px;
+    border-style: ridge double ridge double;
+    border-color: white;
+    border-radius: 10px;
+}
+
+.lista{
+    color: aquamarine;
+    font-size: 22px;
+    font-family: 'Playfair Display', serif;
+}
+
+input{
+    height: 48px;
+    background-color: aqua;
+    color: black;
+    border-color: blue;
+    border-radius: 8px;
+    font-family: 'Playfair Display', serif;
+}
+
+.addtaskbutton{
+    font-size: 16px;
+    padding: 14px;
+    background-color: chartreuse;
+    border-width: 0px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-family: 'Playfair Display', serif;
+}
